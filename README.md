@@ -36,7 +36,7 @@ The scores are displayed and updated after each round, and the final score is sh
 /rock-paper-scissors-game
 │
 ├── index.html       # The HTML structure to display the game
-├── game.js          # JavaScript code implementing the game logic
+├── javascript.js          # JavaScript code implementing the game logic
 └── README.md        # This file
 ```
 
@@ -44,9 +44,9 @@ The scores are displayed and updated after each round, and the final score is sh
 
 ## Code Explanation
 
-- **index.html**: Contains the structure for displaying the game and scores. It includes the JavaScript file (`game.js`).
+- **index.html**: Contains the structure for displaying the game and scores. It includes the JavaScript file (`javascript.js`).
   
-- **game.js**: Contains the game logic, including functions for:
+- **javascript.js**: Contains the game logic, including functions for:
   - `getPlayerChoice()`: Prompts the user to choose between Rock, Paper, or Scissors.
   - `getComputerChoice()`: Randomly generates the computer’s choice.
   - `determineWinner()`: Compares the player’s and computer’s choices and determines the winner.
@@ -129,7 +129,7 @@ The scores are displayed and updated after each round, and the final score is sh
 /rock-paper-scissors-game
 │
 ├── index.html       # The HTML structure to display the game
-├── game.js          # JavaScript code implementing the game logic
+├── javascript.js          # JavaScript code implementing the game logic
 └── README.md        # This file
 ```
 
@@ -137,9 +137,9 @@ The scores are displayed and updated after each round, and the final score is sh
 
 ## Code Explanation
 
-- **index.html**: Contains the structure for displaying the game and scores. It includes the JavaScript file (`game.js`).
+- **index.html**: Contains the structure for displaying the game and scores. It includes the JavaScript file (`javascript.js`).
   
-- **game.js**: Contains the game logic, including functions for:
+- **javascript.js**: Contains the game logic, including functions for:
   - `getPlayerChoice()`: Prompts the user to choose between Rock, Paper, or Scissors.
   - `getComputerChoice()`: Randomly generates the computer’s choice.
   - `determineWinner()`: Compares the player’s and computer’s choices and determines the winner.
